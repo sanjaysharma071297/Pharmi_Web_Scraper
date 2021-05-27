@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 23 14:37:24 2021
-
-@author: Lenovo
+@author: Sanjay Sharma
 """
 
 
@@ -86,7 +84,7 @@ try:
         for link in links:
             print(count);count+=1
             
-        #finding links for news
+        #extracting news
             jobdata=extarct_news(domain,link)
             
             news_article = {
