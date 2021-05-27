@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.1
+lxml==4.5.2
+pandas==1.0.5
+requests==2.22.0
+time
+re
+json
